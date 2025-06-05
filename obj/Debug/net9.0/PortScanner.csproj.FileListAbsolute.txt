@@ -12,3 +12,4 @@
 /home/navinci/Desktop/Code/Debug/PortScanner/obj/Debug/net9.0/PortScanner.pdb
 /home/navinci/Desktop/Code/Debug/PortScanner/obj/Debug/net9.0/PortScanner.genruntimeconfig.cache
 /home/navinci/Desktop/Code/Debug/PortScanner/obj/Debug/net9.0/ref/PortScanner.dll
+/home/navinci/Desktop/Code/Debug/PortScanner/obj/Debug/net9.0/PortScanner.sourcelink.json
